@@ -1,31 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Medeiros\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {}
+    "C:\\Programação\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\Medeiros\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {
+    "C:\\Programação\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Medeiros\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+        "projectUniqueName": "C:\\Programação\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
         "projectName": "SalesWebMVC",
-        "projectPath": "C:\\Medeiros\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
-        "packagesPath": "C:\\Users\\Medeiros\\.nuget\\packages\\",
-        "outputPath": "C:\\Medeiros\\SalesWebMVC\\SalesWebMVC\\obj\\",
+        "projectPath": "C:\\Programação\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+        "packagesPath": "C:\\Users\\gabip\\.nuget\\packages\\",
+        "outputPath": "C:\\Programação\\SalesWebMVC\\SalesWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Medeiros\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Users\\gabip\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },

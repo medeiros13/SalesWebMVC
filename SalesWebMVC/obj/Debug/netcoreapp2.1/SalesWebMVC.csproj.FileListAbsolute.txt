@@ -1,6 +1,5 @@
 C:\Programação\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Programação\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\appsettings.json
-C:\Programação\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
 C:\Programação\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.deps.json
 C:\Programação\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.runtimeconfig.json
 C:\Programação\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.runtimeconfig.dev.json
@@ -34,8 +33,6 @@ C:\Programação\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Programação\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\Programação\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
 C:\Programação\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CoreCompileInputs.cache
-C:\Programação\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
-C:\Programação\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
 C:\Programação\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
 C:\Programação\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
 C:\Programação\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
